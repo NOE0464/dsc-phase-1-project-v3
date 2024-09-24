@@ -43,7 +43,7 @@ Columns dropped on a passmark of over(40%)"Airport.Name"- do not add value since
 -Finally we decided to fill the mossing values of the continuos data whith it's own **median**
 Median - is less sensitive to outliers than mean, preferred when the data distribution is skewed
 ### Part 3: Data Aggregation
--Now we have all relevant data to form a basis of our research
+-this all relevant data to form a basis of our research
 **.groupby()** is used to find if their is a relationship in the dataframe
 -aggregation actually provides a better understanding  on what steps to take in the Aviation industry since it gives accurate continous data on the different aspects and relationships of the data.
 - To be precise we refer back to our **BusinessUnderstanding**
@@ -54,3 +54,9 @@ Median - is less sensitive to outliers than mean, preferred when the data distri
 **Amateur.Built = directly diving into the market may prove to be strenous and might also discourage shareholders/potential investors .So comes the decision to seek cheaper alternatives,thus we will be calibrating are the cheaper airplanes(amateur.built) safer ?**
 ### Part 4 : Data Visualisations
 -For the final stage of data analysis we have to perform **VISUAL ANALYSIS{"seeing is believing"}**,this is done to prove your findings
+**Stackedbarplot-Country-this helps us see where their is a succesful safety market and gauge other competitions on how they are fairing on in the market**-Henceforth Japan provides a safer yet very competitive market, meanwhile Haiti offers a dangerous yet open market.
+**Piechart-Amateur.Built-this helps us see the results of the cheaper option and see if it actually fairs on better than the expensive airlines ,this will help management make decision that might be better**This information therefore states that incidents involving professionally manufactured aircraft tend to have a higher average number of fatal injuries but also more uninjured individuals than amateur-built aircraft.
+**Linegraphs-provide a clear insight on how many aircraft damages were actually natural:they give emphasis{warning}of not taking necessary flight precautions due to weather**
+**Heatmap- this was used to  {Identify associations and relationships between variables,Measure the strength and direction of those relationships,Guide hypothesis testing and data visualization,Support regression analysis and detect multicollinearity,Interpret results} of the continuos data**
+**Countplots-In the context of aircraft, the make typically comes first, followed by the model,Visualizing general Frequency Distribution based on high number of accidents,helps quick decision making also on 
+Purpose.of.Flight = who caused the most fatalities in the air industry?
