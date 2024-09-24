@@ -42,3 +42,15 @@ Columns dropped on a passmark of over(40%)"Airport.Name"- do not add value since
 **identifying outliers** {continuos data} the outliers inthis case were just identified and ignored , since they might be used for future reference 
 -Finally we decided to fill the mossing values of the continuos data whith it's own **median**
 Median - is less sensitive to outliers than mean, preferred when the data distribution is skewed
+### Part 3: Data Aggregation
+-Now we have all relevant data to form a basis of our research
+**.groupby()** is used to find if their is a relationship in the dataframe
+-aggregation actually provides a better understanding  on what steps to take in the Aviation industry since it gives accurate continous data on the different aspects and relationships of the data.
+- To be precise we refer back to our **BusinessUnderstanding**
+**Aircraft Category= helps us understand befor starting the business venture which of our aircraft category is most prone to accidents**
+**Country = helps understand no. of accidents and how spread out they are . This analysis will also explain how other competions are handling the market
+**Make&Model = this gives general oversight on which route to take when purchasing safe airc 
+**Weather Conditon & Aircraft damage = "how spread is human error?" the minimal amount exposes humans.this will provide a basis for criteria for hiring potential employees once in the market
+**Amateur.Built = directly diving into the market may prove to be strenous and might also discourage shareholders/potential investors .So comes the decision to seek cheaper alternatives,thus we will be calibrating are the cheaper airplanes(amateur.built) safer ?**
+### Part 4 : Data Visualisations
+-For the final stage of data analysis we have to perform **VISUAL ANALYSIS{"seeing is believing"}**,this is done to prove your findings
