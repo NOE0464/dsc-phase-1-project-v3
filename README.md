@@ -64,4 +64,5 @@ categorical data = **object**(Qualitative)(not inform of numbers).
 ## conclusions
 After creating all necessary visualisations further initiative on determining what factors can best help prepare for  aviation industry,ie; 
  **competition in the aviation sector, number of flight risks & accidents across differnt factors also their causes**.
- -For deeper understanding we have converted our **finalised cleaned data to excel format** to be used in  **Tableau to create a dashboard to display visual data to gain deeper insight.**   
+ -For deeper understanding we have converted our **finalised cleaned data to excel format** to be used in  **Tableau to create a dashboard to display visual data to gain deeper insight.**
+  ** TABLEAU LINK -https://public.tableau.com/app/profile/christopher.noel/viz/AVIATION_MARKET_ANALYSIS/Aviation_Analysis?publish=yes **
